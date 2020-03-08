@@ -1,0 +1,9 @@
+{
+    "baseUrl": "https://demo.saloodo.com/en",
+    "chromeWebSecurity": false,
+    "defaultCommandTimeout": 8000,
+    "firefoxGcInterval": {
+        "runMode": 1,
+        "openMode": null
+      }
+}
