@@ -14,7 +14,7 @@ E2E testing project with Cypress (JavaScript)
     - Login as a shipper
     - Login as a carrier
 
-- Dashboard Shipper flow
+- Shipper dashboard flow
     - Enter additional company details
 
 
